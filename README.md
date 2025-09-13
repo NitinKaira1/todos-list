@@ -4,6 +4,12 @@ A simple **Todos List application** built with **React.js**. This project allows
 
 ---
 
+## Live Demo
+
+Check out the live app here: [Todos List Live](https://NitinKaira1.github.io/todos-list)
+
+---
+
 ## Features
 
 - Add new tasks
@@ -13,15 +19,9 @@ A simple **Todos List application** built with **React.js**. This project allows
 
 ---
 
-## Demo
-
-You can run this app locally by following the instructions below.
-
----
-
 ## Installation
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/todos-list.git
+git clone https://github.com/NitinKaira1/todos-list.git
